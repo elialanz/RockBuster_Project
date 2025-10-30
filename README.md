@@ -1,3 +1,6 @@
+The Rockbuster Stealth Data Analysis project involved analyzing a film rental company’s SQL database to identify revenue trends, top customers, and key markets ahead of its digital launch. Using PostgreSQL and Tableau, I extracted insights from over 15,000 customer transactions and built interactive dashboards to visualize global revenue performance, customer segments, and genre profitability.
+
+
 Rockbuster Data Analysis & Insights
 
 In this project, I worked with Rockbuster Stealth LLC’s film rental database to analyze customer behavior, revenue distribution, and genre performance, then translated those findings into a manager-ready presentation.
