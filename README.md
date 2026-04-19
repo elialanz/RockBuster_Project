@@ -92,12 +92,12 @@ Contains the main project outputs for review: [→](https://github.com/elialanz/
 
 ## Recommended Files to Review First
 If you are reviewing this project as a recruiter or hiring manager, the best starting points are:
-1. `[05] Final Deliverables/rockbuster_analysis_presentation.pptx`
-2. `[05] Final Deliverables/rockbuster_query_outputs.xlsx`
-3. `[05] Final Deliverables/rockbuster_data_dictionary.pdf`
-4. `[03] SQL Scripts/07_customer_revenue_geography_analysis.sql`
-5. `[03] SQL Scripts/08_subquery_analysis.sql`
-6. `[03] SQL Scripts/09_cte_analysis.sql`
+1. `[05] Final Deliverables/rockbuster_analysis_presentation.pptx` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B05%5D%20Final%20Deliverables/%5B1%5D%20rockbuster_analysis_presentation.pptx)
+2. `[05] Final Deliverables/rockbuster_query_outputs.xlsx` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B04%5D%20Analysis%20%26%20Visualizations/%5B1%5D%20Reports/rockbuster_query_outputs.xlsx)
+3. `[05] Final Deliverables/rockbuster_data_dictionary.pdf` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B05%5D%20Final%20Deliverables/%5B2%5D%20rockbuster_data_dictionary.pdf)
+4. `[03] SQL Scripts/05_customer_revenue_geography_analysis.sql` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B03%5D%20SQL%20Scripts/05_customer_revenue_geography_analysis.sql)
+5. `[03] SQL Scripts/06_subquery_average_payment_analysis.sql` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B03%5D%20SQL%20Scripts/06_subquery_average_payment_analysis.sql)
+6. `[03] SQL Scripts/07_cte_customer_count_analysis.sql` [→](https://github.com/elialanz/RockBuster_Project/blob/main/%5B03%5D%20SQL%20Scripts/07_cte_customer_count_analysis.sql)
 
 These files provide the clearest view of the business questions, technical SQL capability, and final communication outputs. 
 
