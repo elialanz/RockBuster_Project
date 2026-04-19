@@ -52,7 +52,7 @@ This repository includes SQL work across several levels of complexity, including
 
 ### [01] Project Brief & Planning
 Project scoping documents and planning materials used to frame the analysis.
-[→→→](https://github.com/elialanz/RockBuster_Project/tree/main/%5B01%5D%20Project%20Brief%20%26%20Planning)
+[→🔗](https://github.com/elialanz/RockBuster_Project/tree/main/%5B01%5D%20Project%20Brief%20%26%20Planning)
 
 ### [02] Data
 #### [1] Original Data
