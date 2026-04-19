@@ -52,11 +52,12 @@ This repository includes SQL work across several levels of complexity, including
 
 ### [01] Project Brief & Planning
 Project scoping documents and planning materials used to frame the analysis.
-→ [Folder Link](https://github.com/elialanz/RockBuster_Project/tree/main/%5B01%5D%20Project%20Brief%20%26%20Planning) 🔗
+[→](https://github.com/elialanz/RockBuster_Project/tree/main/%5B01%5D%20Project%20Brief%20%26%20Planning)
 
 ### [02] Data
 #### [1] Original Data
 Contains the original Rockbuster database backup and source notes.
+→ [Folder Link](https://github.com/elialanz/RockBuster_Project/tree/main/%5B01%5D%20Project%20Brief%20%26%20Planning) 🔗
 
 #### [2] Data Checks & Cleaning
 Contains the entity relationship diagram, ERD export, data dictionary, and SQL work related to schema understanding, data quality checks, and profiling.
