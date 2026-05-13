@@ -131,3 +131,11 @@ This repository has been curated to present the project as a professional SQL an
 
 ## Contact
 If you would like to discuss this project, my analytical workflow, or related portfolio work, feel free to connect with me via LinkedIn or GitHub.
+
+---
+
+## About
+
+Built by **Elia Lanz**, a freelance data analyst specialising in [operational visibility work for SME operators](https://www.elialanz.com/dashboard-service/), retail, transport, bookingb based services, and e-commerce.
+
+[See how I work with clients →](https://www.elialanz.com/dashboard-service/) · [Other data services I offer →](https://www.elialanz.com/hire-me/) · [elialanz.com](https://www.elialanz.com)
